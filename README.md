@@ -40,7 +40,7 @@ Graph Editor Tool helps students and developers understand graph theory concepts
 <pre>
 Graph Editor Tool/
 │
-└── GraphAlgo.ipynb
+└── GraphAlgo.ipynb      # Complete project implementation
 </pre>
 
 <p>The entire project is contained inside the notebook file.</p>
@@ -222,13 +222,67 @@ Graph Editor Tool/GraphAlgo.ipynb
 
 <hr>
 
+<h2>🧠 Algorithm Implementation Details</h2>
+
+<h3>DFS & BFS</h3>
+<ul>
+<li>DFS → Recursive traversal</li>
+<li>BFS → Queue-based traversal</li>
+<li>Live coloring during exploration</li>
+</ul>
+
+<h3>Dijkstra’s Algorithm</h3>
+<ul>
+<li>Uses Min-Heap (Priority Queue)</li>
+<li>Tracks shortest distances</li>
+<li>Highlights final shortest path</li>
+</ul>
+
+<h3>Prim’s Minimum Spanning Tree</h3>
+<ul>
+<li>Greedy approach</li>
+<li>Uses Min-Heap</li>
+<li>Works only on Undirected Graphs</li>
+</ul>
+
+<h3>Bridges & Articulation Points</h3>
+<ul>
+<li>Implemented using Tarjan’s Algorithm</li>
+<li>Uses discovery time & low values</li>
+</ul>
+
+<h3>Cycle Detection</h3>
+<ul>
+<li>Directed → DFS with node coloring</li>
+<li>Undirected → DFS with parent tracking</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Use Cases</h2>
+
+<ul>
+<li>Data Structures & Algorithms learning</li>
+<li>Classroom demonstrations</li>
+<li>Competitive programming preparation</li>
+<li>Interview revision</li>
+<li>Visual understanding of graph theory</li>
+</ul>
+
+<hr>
+
 <h2>🤝 Contributing</h2>
 
-<p>Fork the repository and open a Pull Request at 
-<a href="https://github.com/madhur1702/Graph-Editor-Tool">
-https://github.com/madhur1702/Graph-Editor-Tool
-</a>
-</p>
+<p>Contributions are welcome!</p>
+
+<ul>
+<li>Add new algorithms</li>
+<li>Improve animation</li>
+<li>Enhance UI</li>
+<li>Optimize performance</li>
+</ul>
+
+<p>Fork the repository and open a Pull Request at <a href="https://github.com/madhur1702/Graph-Editor-Tool">https://github.com/madhur1702/Graph-Editor-Tool</a></p>
 
 <hr>
 
@@ -236,5 +290,5 @@ https://github.com/madhur1702/Graph-Editor-Tool
 
 <p>
 <b>Madhur Bhandarkar</b><br>
-<a href="https://github.com/madhur1702">github.com/madhur1702</a>
+GitHub: <a href="https://github.com/madhur1702">https://github.com/madhur1702</a>
 </p>
