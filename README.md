@@ -2,7 +2,19 @@
 
 <p align="center">
 An interactive <b>Graph Visualization & Algorithm Animation Tool</b><br>
-Built using <b>Python</b> and <b>Pygame</b>, designed to run inside a <b>Jupyter Notebook (.ipynb)</b>.
+Built using <b>Python</b> and <b>Pygame</b>, designed to run inside a <b>Jupyter Notebook</b>.
+</p>
+
+<p align="center">
+<a href="https://github.com/madhur1702/Graph-Editor-Tool/stargazers">
+<img src="https://img.shields.io/github/stars/madhur1702/Graph-Editor-Tool?style=flat-square" alt="GitHub Stars">
+</a>
+<a href="https://github.com/madhur1702/Graph-Editor-Tool/issues">
+<img src="https://img.shields.io/github/issues/madhur1702/Graph-Editor-Tool?style=flat-square" alt="GitHub Issues">
+</a>
+<a href="https://github.com/madhur1702/Graph-Editor-Tool/blob/main/LICENSE">
+<img src="https://img.shields.io/github/license/madhur1702/Graph-Editor-Tool?style=flat-square" alt="License">
+</a>
 </p>
 
 <hr>
@@ -28,7 +40,7 @@ Graph Editor Tool helps students and developers understand graph theory concepts
 <pre>
 Graph Editor Tool/
 │
-└── GraphAlgo.ipynb      # Complete project implementation
+└── GraphAlgo.ipynb
 </pre>
 
 <p>The entire project is contained inside the notebook file.</p>
@@ -185,25 +197,19 @@ pip install pygame notebook
 jupyter notebook
 </pre>
 
-<p>
-Open:
-</p>
+<p>Open:</p>
 
 <pre>
 Graph Editor Tool/GraphAlgo.ipynb
 </pre>
 
-<p>
-Click <b>Run All Cells</b> to start the application.
-</p>
+<p>Click <b>Run All Cells</b> to start the application.</p>
 
 <hr>
 
 <h2>🧵 Why Threading is Used</h2>
 
-<p>
-Using <code>pygame.time.delay()</code> freezes the entire window during animation.
-</p>
+<p>Using <code>pygame.time.delay()</code> freezes the entire window during animation.</p>
 
 <p>This project uses <b>Python threading</b> to:</p>
 
@@ -216,78 +222,19 @@ Using <code>pygame.time.delay()</code> freezes the entire window during animatio
 
 <hr>
 
-<h2>🧠 Algorithm Implementation Details</h2>
-
-<h3>DFS & BFS</h3>
-<ul>
-<li>DFS → Recursive traversal</li>
-<li>BFS → Queue-based traversal</li>
-<li>Live coloring during exploration</li>
-</ul>
-
-<h3>Dijkstra’s Algorithm</h3>
-<ul>
-<li>Uses Min-Heap (Priority Queue)</li>
-<li>Tracks shortest distances</li>
-<li>Highlights final shortest path</li>
-</ul>
-
-<h3>Prim’s Minimum Spanning Tree</h3>
-<ul>
-<li>Greedy approach</li>
-<li>Uses Min-Heap</li>
-<li>Works only on Undirected Graphs</li>
-</ul>
-
-<h3>Bridges & Articulation Points</h3>
-<ul>
-<li>Implemented using Tarjan’s Algorithm</li>
-<li>Uses discovery time & low values</li>
-</ul>
-
-<h3>Cycle Detection</h3>
-<ul>
-<li>Directed → DFS with node coloring</li>
-<li>Undirected → DFS with parent tracking</li>
-</ul>
-
-<hr>
-
-<h2>🎯 Use Cases</h2>
-
-<ul>
-<li>Data Structures & Algorithms learning</li>
-<li>Classroom demonstrations</li>
-<li>Competitive programming preparation</li>
-<li>Interview revision</li>
-<li>Visual understanding of graph theory</li>
-</ul>
-
-<hr>
-
 <h2>🤝 Contributing</h2>
 
-<p>
-Contributions are welcome!
-</p>
-
-<ul>
-<li>Add new algorithms</li>
-<li>Improve animation</li>
-<li>Enhance UI</li>
-<li>Optimize performance</li>
-</ul>
-
-<p>
-Fork the repository and open a Pull Request.
+<p>Fork the repository and open a Pull Request at 
+<a href="https://github.com/madhur1702/Graph-Editor-Tool">
+https://github.com/madhur1702/Graph-Editor-Tool
+</a>
 </p>
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
+<h2>👨‍💻 Developed By</h2>
 
 <p>
 <b>Madhur Bhandarkar</b><br>
-Computer Engineering Student<br>
-Passionate about Algorithms, Systems & Developer Tools 🚀
+<a href="https://github.com/madhur1702">github.com/madhur1702</a>
 </p>
