@@ -176,7 +176,7 @@ Graph Editor Tool/
 <h3>1️⃣ Install Requirements</h3>
 
 <pre>
-pip install pygame notebook
+pip install pygame
 </pre>
 
 <h3>2️⃣ Run the Project</h3>
