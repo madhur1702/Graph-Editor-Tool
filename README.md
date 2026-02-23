@@ -2,19 +2,7 @@
 
 <p align="center">
 An interactive <b>Graph Visualization & Algorithm Animation Tool</b><br>
-Built using <b>Python</b> and <b>Pygame</b>, designed to run inside a <b>Jupyter Notebook</b>.
-</p>
-
-<p align="center">
-<a href="https://github.com/madhur1702/Graph-Editor-Tool/stargazers">
-<img src="https://img.shields.io/github/stars/madhur1702/Graph-Editor-Tool?style=flat-square" alt="GitHub Stars">
-</a>
-<a href="https://github.com/madhur1702/Graph-Editor-Tool/issues">
-<img src="https://img.shields.io/github/issues/madhur1702/Graph-Editor-Tool?style=flat-square" alt="GitHub Issues">
-</a>
-<a href="https://github.com/madhur1702/Graph-Editor-Tool/blob/main/LICENSE">
-<img src="https://img.shields.io/github/license/madhur1702/Graph-Editor-Tool?style=flat-square" alt="License">
-</a>
+Built using <b>Python</b> and <b>Pygame</b>, designed to run inside a <b>Jupyter Notebook.</b>.
 </p>
 
 <hr>
@@ -197,19 +185,25 @@ pip install pygame notebook
 jupyter notebook
 </pre>
 
-<p>Open:</p>
+<p>
+Open:
+</p>
 
 <pre>
 Graph Editor Tool/GraphAlgo.ipynb
 </pre>
 
-<p>Click <b>Run All Cells</b> to start the application.</p>
+<p>
+Click <b>Run All Cells</b> to start the application.
+</p>
 
 <hr>
 
 <h2>🧵 Why Threading is Used</h2>
 
-<p>Using <code>pygame.time.delay()</code> freezes the entire window during animation.</p>
+<p>
+Using <code>pygame.time.delay()</code> freezes the entire window during animation.
+</p>
 
 <p>This project uses <b>Python threading</b> to:</p>
 
@@ -273,7 +267,9 @@ Graph Editor Tool/GraphAlgo.ipynb
 
 <h2>🤝 Contributing</h2>
 
-<p>Contributions are welcome!</p>
+<p>
+Contributions are welcome!
+</p>
 
 <ul>
 <li>Add new algorithms</li>
@@ -282,13 +278,16 @@ Graph Editor Tool/GraphAlgo.ipynb
 <li>Optimize performance</li>
 </ul>
 
-<p>Fork the repository and open a Pull Request at <a href="https://github.com/madhur1702/Graph-Editor-Tool">https://github.com/madhur1702/Graph-Editor-Tool</a></p>
+<p>
+Fork the repository and open a Pull Request.
+</p>
 
 <hr>
 
-<h2>👨‍💻 Developed By</h2>
+<h2>👨‍💻 Author</h2>
 
 <p>
 <b>Madhur Bhandarkar</b><br>
-GitHub: <a href="https://github.com/madhur1702">https://github.com/madhur1702</a>
+Computer Engineering Student<br>
+Passionate about Algorithms, Systems & Developer Tools 🚀
 </p>
