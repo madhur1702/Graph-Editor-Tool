@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Graph Editor Tool</h1>
+<h1 align="center">Graph Editor Tool</h1>
 
 <p align="center">
 An interactive <b>Graph Visualization & Algorithm Animation Tool</b><br>
@@ -284,10 +284,8 @@ Fork the repository and open a Pull Request.
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
+<h2>👨‍💻 Developed By</h2>
 
 <p>
 <b>Madhur Bhandarkar</b><br>
-Computer Engineering Student<br>
-Passionate about Algorithms, Systems & Developer Tools 🚀
 </p>
